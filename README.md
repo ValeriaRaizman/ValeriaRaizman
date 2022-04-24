@@ -1,13 +1,12 @@
 
 <p>
   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://lh3.googleusercontent.com/18cT4F-_CoYWxI34ADTB97duI2-KYQSde5EPyIgjXsYQbrDjFaIFgG0W4OxOw7kylJvr_b1j6X1oagVWvi_fgJw=w600">
+<img src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png">
 </p>
 
 <p>
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 
