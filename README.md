@@ -1,6 +1,4 @@
-
-<p>
-  
+<img src="https://blog.soliditylang.org/img/2020/09/Underhanded_Solidity.gif">
 <img src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png">
 </p>
 
