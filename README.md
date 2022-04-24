@@ -30,7 +30,9 @@ XML          7  mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<p>Instagram <a href="https://www.instagram.com/valerymoncheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerymoncheri" height="30" width="40" /></a>
+<p>
+<a href="https://www.instagram.com/valerymoncheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerymoncheri" height="30" width="40" /></a>
+Instagram
 </p>
 
 ### 💜 Music / Spotify Playing
