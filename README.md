@@ -17,17 +17,13 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-### Desglose del desarrollo semanal
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   11 hrs 47 mins  █████████████████████▓░░░   86.74 % 
-Solidity     6  hrs 13 mins  █████████████████▓░░░░░░░   80.61 %
-CSS          1  hr  26 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other        9  mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-XML          7  mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-```
-<!--END_SECTION:waka-->
+█████████████████████▓░░░
+█████████████████▓░░░░░░░   
+██▓░░░░░░░░░░░░░░░░░░░░░░  
+▒░░░░░░░░░░░░░░░░░░░░░░░░   
+▒░░░░░░░░░░░░░░░░░░░░░░░░   
+
 
 <p>
 <a href="https://www.instagram.com/valerymoncheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerymoncheri" height="30" width="40" /></a>
