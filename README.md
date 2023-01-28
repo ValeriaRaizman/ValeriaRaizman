@@ -1,5 +1,5 @@
 <p>
-  <img src="https://blog.soliditylang.org/img/2020/09/Underhanded_Solidity.gif">
+  <img src="https://static.wixstatic.com/media/d0fb19_485abdbf358041618423ee213c842bb8~mv2.gif">
 </p>
 
 <p>
