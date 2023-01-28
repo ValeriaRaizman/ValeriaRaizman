@@ -16,16 +16,9 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
-
-
-█████████████████████▓░░░
-  ██▓░░░░░░░░░░░░░░░░░░░░░░  
-      ▒░░░░░░░░░░░░░░░░░░░░░░░░   
-        ▒░░░░░░░░░░░░░░░░░░░░░░░░   
-
-
+    
 <p>
-<a href="https://www.instagram.com/valerymoncheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="valerymoncheri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/valerymoncheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Valeria Raizman" height="30" width="40" /></a>
 Instagram
 </p>
 
