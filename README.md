@@ -1,5 +1,5 @@
 <p>
-  <img src="https://static.wixstatic.com/media/d0fb19_485abdbf358041618423ee213c842bb8~mv2.gif">
+  <img src="https://i.pinimg.com/originals/52/77/bc/5277bc2a82bc1a82658beee1cf02fe24.gif">
 </p>
 
 <p>
